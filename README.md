@@ -68,14 +68,14 @@ Use: Creates a new branch and immediately switches to it in one single step. Per
 Example: git checkout -b new-feature
  
 Team Members:
-Karim Khaled Ismail Ahmed
-Mohamed Anwar Samy
-Ahmed Shaban
-Ahmud Muhamed Fathi
-Alaa Mohamed Arafa
-Amaal Abdo
-Bassant Mohamad Amen
-Doaa Ahmed
-Mohamed Ashraf Ahmed
-Mohamed Samir Khamis
-Omar Mohamed Ahmed Eid
+1- Karim Khaled Ismail Ahmed
+2- Mohamed Anwar Samy
+3- Ahmed Shaban
+4- Ahmud Muhamed Fathi
+5- Alaa Mohamed Arafa
+6-Amaal Abdo
+7- Bassant Mohamad Amen
+8- Doaa Ahmed
+9- Mohamed Ashraf Ahmed
+10- Mohamed Samir Khamis
+11-Omar Mohamed Ahmed Eid
